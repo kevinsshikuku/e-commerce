@@ -1,3 +1,3 @@
 ## E-commerce
-## Class Asinment 
+## Class Asignment
 https://kevinsshikuku.github.io/e-commerce/
